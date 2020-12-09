@@ -1,0 +1,42 @@
+
+header {
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+ul{
+    display: flex;
+    padding-left: 100px;
+    
+}
+
+li {
+    padding-left: 50px;
+    display: flex;
+   
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+p{
+    text-align: center;
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+}
