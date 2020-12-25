@@ -1,24 +1,41 @@
 
-header {
+/* header {
     display: flex;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 20px;
+    justify-content: space-between;
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+div{
+    background-color: rgb(240, 160, 160);
+}
+h1 {
+    text-align: center;
 }
 
-ul{
-    display: flex;
-    padding-left: 100px;
+nav{
     
+    text-align: center;
 }
+
+/* ul{
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    
+} */
 
 li {
-    padding-left: 50px;
-    display: flex;
+    text-align: center;
    
 
-}
+} 
 
 h2 {
     text-align: center;
